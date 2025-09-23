@@ -3,7 +3,6 @@
 An **interactive HR Dashboard** built in **Tableau** to analyze key workforce metrics.  
 The dashboard provides insights into **hiring trends, demographics, and performance**, helping HR teams make **data-driven decisions**.
 
----
 
 ## 📊 Key Features
 - **Hiring Trends** → Track recruitment patterns over time  
@@ -13,23 +12,14 @@ The dashboard provides insights into **hiring trends, demographics, and performa
 - **Education Levels** → Evaluate workforce qualifications  
 - **Performance Insights** → Identify trends to enhance HR strategies  
 
----
 
 ## 🛠️ Tools & Technologies
 - **Tableau** → Dashboard creation and visualization  
 - **Excel / CSV Dataset** → HR data source  
 - **Data Cleaning** → Performed prior to visualization  
 
----
 
 ## 📂 Project Files
 -`Clients_Requirements
 - `HR_Dashboard.twbx` → Tableau packaged workbook file   
 - `README.md` → Project documentation  
-
----
-
-## 🚀 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/hr-dashboard.git
